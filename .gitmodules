@@ -46,9 +46,6 @@
 [submodule "mycroft-pairing"]
 	path = skill-pairing
 	url = https://github.com/mycroftai/skill-pairing.git
-[submodule "mycroft-personal"]
-	path = skill-personal
-	url = https://github.com/mycroftai/skill-personal.git
 [submodule "mycroft-playback-control"]
 	path = skill-playback-control
 	url = https://github.com/mycroftai/skill-playback-control.git
@@ -232,3 +229,6 @@
 [submodule "homescreen"]
 	path = homescreen
 	url = https://github.com/MycroftAI/skill-homescreen
+[submodule "skill-personal"]
+	path = skill-personal
+	url = https://github.com/JairoJosy/skill-personal.git
